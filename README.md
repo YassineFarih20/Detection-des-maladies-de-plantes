@@ -1,1 +1,1 @@
-# D-tection-des-maladies-de-plante
+# Detection-des-maladies-de-plantes
